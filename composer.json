@@ -1,0 +1,19 @@
+{
+  "name": "328-final",
+  "description": "Functioning webpage for Terri Lynn Images professional photography business",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Adam Percival",
+      "email": "imhank@me.com"
+    },
+    {
+      "name": "Vladimir Ivanov",
+      "email": "Ivanov.vladimir@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
